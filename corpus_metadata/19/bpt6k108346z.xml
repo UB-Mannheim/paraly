@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.015" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k108346z</identifier>
+<datestamp>2021-10-22</datestamp>
+<setSpec>gallica:theme:5:52</setSpec>
+<setSpec>gallica:theme:5:53</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k108346z</dc:identifier>
+<dc:title>Vie de Maupertuis / par L. Angliviel de La Beaumelle ; ouvrage posthume [publ. par Maurice Angliviel]. [précédé de] Lettre (de Maurice Angliviel du 5 octobre 1857) à M. Ledoyen, libraire, et à M. Ch. Meyrueis, imprimeur-libraire. suivi de Lettres inédites de Frédéric le Grand et de Maupertuis, avec des notes et un appendice</dc:title>
+<dc:creator>La Beaumelle, Laurent de (1727-1773). Auteur du texte</dc:creator>
+<dc:creator>Angliviel, Maurice (1779-1876). Auteur du texte</dc:creator>
+<dc:creator>Frédéric II (1712-1786 ; roi de Prusse). Auteur du texte</dc:creator>
+<dc:creator>Maupertuis, Pierre-Louis Moreau de (1698-1759). Auteur du texte</dc:creator>
+<dc:contributor>Angliviel, Maurice (1779-1876). Éditeur scientifique</dc:contributor>
+<dc:publisher>Ledoyen (Paris)</dc:publisher>
+<dc:date>1856</dc:date>
+<dc:subject xml:lang="fre">Maupertuis, Pierre-Louis Moreau de (1698-1759)</dc:subject>
+<dc:description>Comprend : Lettre (de Maurice Angliviel du 5 octobre 1857) à M. Ledoyen, libraire, et à M. Ch. Meyrueis, imprimeur-libraire ; Lettres inédites / de Frédéric le Grand ; Lettres inédites / de Maupertuis</dc:description>
+<dc:format>XI-494 p. ; in-18</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb307027558</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Centre technique du livre, 8-Ln27-13823</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  509</dc:format>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>52</sdewey>
+<dewey>5</dewey>
+<source>Bibliothèque nationale de France, département Centre technique du livre, 8-Ln27-13823</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>99.48</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Vie de Maupertuis / par L. Angliviel de La Beaumelle ; ouvrage posthume [publ. par Maurice Angliviel]. [précédé de] Lettre (de Maurice Angliviel du 5 octobre 1857) à M. Ledoyen, libraire, et à M. Ch. Meyrueis, imprimeur-libraire. suivi de Lettres inédites de Frédéric le Grand et de Maupertuis, avec des notes et un appendice</title>
+<date nbIssue="1">1856</date>
+<first_indexation_date>15/10/2007</first_indexation_date>
+<streamable>false</streamable>
+</results>

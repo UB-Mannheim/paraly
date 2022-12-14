@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.010" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k57483662</identifier>
+<datestamp>2021-12-16</datestamp>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k57483662</dc:identifier>
+<dc:title>Chefs-d'oeuvre du théâtre moderne : tome deuxième</dc:title>
+<dc:creator>Augier, Émile (1820-1889). Auteur du texte</dc:creator>
+<dc:creator>Dumas, Alexandre (1802-1870). Auteur du texte</dc:creator>
+<dc:creator>Scribe, Eugène (1791-1861). Auteur du texte</dc:creator>
+<dc:creator>Murger, Henry (1822-1861). Auteur du texte</dc:creator>
+<dc:creator>Gozlan, Léon (1803-1866). Auteur du texte</dc:creator>
+<dc:creator>Feuillet, Octave (1821-1890). Auteur du texte</dc:creator>
+<dc:creator>Sue, Eugène (1804-1857). Auteur du texte</dc:creator>
+<dc:creator>Saint-Georges, Henri de (1799-1875). Auteur du texte</dc:creator>
+<dc:creator>Laya, Léon (1811-1872). Auteur du texte</dc:creator>
+<dc:creator>Musset, Alfred de (1810-1857). Auteur du texte</dc:creator>
+<dc:creator>Girardin, Émile de (1806-1881). Auteur du texte</dc:creator>
+<dc:creator>Lambert-Thiboust (1826-1867). Auteur du texte</dc:creator>
+<dc:creator>Anicet-Bourgeois, Auguste (1806-1871). Auteur du texte</dc:creator>
+<dc:creator>Doucet, Camille (1812-1895). Auteur du texte</dc:creator>
+<dc:creator>Méry, Joseph (1797-1866). Auteur du texte</dc:creator>
+<dc:publisher>Michel Lévy frères (Paris)</dc:publisher>
+<dc:date>1873</dc:date>
+<dc:description>Comprend : Gabrielle ; Le Chevalier de Maison-Rouge ; Bataille de dames ; La vie de bohème ; Une tempête dans un verre d'eau ; Le roman d'un jeune homme pauvre ; Le morne au diable ; Les mousquetaires de la Reine ; Le duc Job ; L'habit vert ; Le supplice d'une femme ; Un mari dans du coton ; Le médecin des enfants ; Les ennemis de la maison ; La bataille de Toulouse</dc:description>
+<dc:format>300 p. ; 32 cm</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb41893099g</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Littérature et art, YF-1058</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<source>Bibliothèque nationale de France, département Littérature et art, YF-1058</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>96.52</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Chefs-d'oeuvre du théâtre moderne : tome deuxième</title>
+<date nbIssue="1">1873</date>
+<first_indexation_date>16/11/2009</first_indexation_date>
+<streamable>false</streamable>
+</results>

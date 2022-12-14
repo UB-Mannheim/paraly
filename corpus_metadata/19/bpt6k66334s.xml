@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.010" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k66334s</identifier>
+<datestamp>2019-07-19</datestamp>
+<setSpec>gallica:theme:8:84</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k66334s</dc:identifier>
+<dc:title>Fort comme la mort / Guy de Maupassant</dc:title>
+<dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30910540r</dc:relation>
+<dc:creator>Maupassant, Guy de (1850-1893). Auteur du texte</dc:creator>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:description>[Fort comme la mort (français)]</dc:description>
+<dc:relation>Notice d’oeuvre : http://catalogue.bnf.fr/ark:/12148/cb122382675</dc:relation>
+<dc:date>1889</dc:date>
+<dc:format>1 vol. (353 p.) ; in-18</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30910540r</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Bibliothèque nationale de France, département Littérature et art, 8-Y2-23390</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:description>Appartient à l’ensemble documentaire : GTextes1</dc:description>
+<dc:format>Nombre total de vues :  362</dc:format>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>84</sdewey>
+<dewey>8</dewey>
+<source>Bibliothèque nationale de France, département Littérature et art, 8-Y2-23390</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>0.0</nqamoyen>
+<title>Fort comme la mort / Guy de Maupassant</title>
+<date nbIssue="1">1889</date>
+<first_indexation_date>15/10/2007</first_indexation_date>
+<streamable>false</streamable>
+</results>

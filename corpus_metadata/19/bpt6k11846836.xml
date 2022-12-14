@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.266" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k11846836</identifier>
+<datestamp>2020-06-19</datestamp>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k11846836</dc:identifier>
+<dc:title>La dame qui a perdu son peintre ; suivi de La seconde mort de Broggi Mezzastris ; suivi de Une nuit de Noël sous la Terreur / par Paul Bourget, de l'Académie française</dc:title>
+<dc:creator>Bourget, Paul (1852-1935). Auteur du texte</dc:creator>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:date>1934</dc:date>
+<dc:description>Collection : Bibliothèque reliée Plon ; 167</dc:description>
+<dc:description>Collection : Bibliothèque reliée Plon ; 167</dc:description>
+<dc:format>1 vol. (251 p.) ; In-16</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31856972q</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Bibliothèque nationale de France, département Littérature et art, 8-Y2-73815 (167)</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  252</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<source>Bibliothèque nationale de France, département Littérature et art, 8-Y2-73815 (167)</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>88.89</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>La dame qui a perdu son peintre ; suivi de La seconde mort de Broggi Mezzastris ; suivi de Une nuit de Noël sous la Terreur / par Paul Bourget, de l'Académie française</title>
+<date nbIssue="1">1934</date>
+<first_indexation_date>13/01/2019</first_indexation_date>
+<streamable>false</streamable>
+</results>

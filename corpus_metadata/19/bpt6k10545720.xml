@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.010" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k10545720</identifier>
+<datestamp>2019-12-16</datestamp>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k10545720</dc:identifier>
+<dc:title>De l'esprit de conquête et de l'usurpation, dans leurs rapports avec la civilisation européenne . Par Benjamin de Constant-Rebecque,..</dc:title>
+<dc:creator>Constant, Benjamin (1767-1830). Auteur du texte</dc:creator>
+<dc:publisher> (Hanovre)</dc:publisher>
+<dc:date>1814</dc:date>
+<dc:format>VIII-208 p. ; 20 cm</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb352848456</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Bibliothèque nationale de France, département Réserve des livres rares, RES P-F-24</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:description>Appartient à l’ensemble documentaire : RfnEns0</dc:description>
+<dc:description>Appartient à l’ensemble documentaire : RfnEuro1</dc:description>
+<dc:description>Appartient à l’ensemble documentaire : RfnDHom1</dc:description>
+<dc:format>Nombre total de vues :  231</dc:format>
+<dc:format>application/epub+zip 3.0 accessible</dc:format>
+<dc:format>Format adaptable de type XML DTBook, 2005-3</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<source>Bibliothèque nationale de France, département Réserve des livres rares, RES P-F-24</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>99.96</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>De l'esprit de conquête et de l'usurpation, dans leurs rapports avec la civilisation européenne . Par Benjamin de Constant-Rebecque,..</title>
+<epubFile>https://gallica.bnf.fr/ark:/12148/bpt6k10545720.epub</epubFile>
+<date nbIssue="1">1814</date>
+<first_indexation_date>28/03/2014</first_indexation_date>
+<streamable>false</streamable>
+</results>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.010" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k9756853n</identifier>
+<datestamp>2019-10-04</datestamp>
+<setSpec>gallica:theme:9:92</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9756853n</dc:identifier>
+<dc:title>Journal d'une expulsée (2e édition) / avec préface par François Coppée</dc:title>
+<dc:creator>Veuillot, Marguerite (1862-19..). Auteur du texte</dc:creator>
+<dc:contributor>Coppée, François (1842-1908). Préfacier</dc:contributor>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:date>1907</dc:date>
+<dc:subject xml:lang="fre">Veuillot, Marguerite (1862-19..)</dc:subject>
+<dc:format>1 vol. (X-334 p.) ; in-8</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb34184695w</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-52571 (A)</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  360</dc:format>
+<dc:description>Contient une table des matières</dc:description>
+<dc:description>Avec mode texte</dc:description>
+<dc:description>Journaux intimes</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>92</sdewey>
+<dewey>9</dewey>
+<source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-52571 (A)</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>98.5</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Journal d'une expulsée (2e édition) / avec préface par François Coppée</title>
+<date nbIssue="1">1907</date>
+<first_indexation_date>13/12/2016</first_indexation_date>
+<streamable>false</streamable>
+</results>

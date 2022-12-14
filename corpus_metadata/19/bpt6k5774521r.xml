@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.019" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k5774521r</identifier>
+<datestamp>2018-09-28</datestamp>
+<setSpec>gallica:theme:6:61</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5774521r</dc:identifier>
+<dc:title>Reproduction fidèle des discussions qui ont eu lieu sur la lithotripsie et la taille, à l'Académie royale de médecine, en 1835, à l'occasion d'un rapport de M. Velpeau sur ces deux opérations... , suivi de lettres sur le même sujet, d'une comparaison entre la méthode ancienne et la méthode actuelle de broiement des calculs... Par M. Doubovitzki,...</dc:title>
+<dc:creator>Doubovitskiĭ, Pierre. Auteur du texte</dc:creator>
+<dc:creator>Velpeau, Alfred-Armand-Louis-Marie (1795-1867). Auteur du texte</dc:creator>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:date>1835</dc:date>
+<dc:subject xml:lang="fre">Calculs urinaires -- Thérapeutique</dc:subject>
+<dc:format>In-8° , VI-246 p.</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb303512074</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-TE97-164</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  262</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>61</sdewey>
+<dewey>6</dewey>
+<source>Bibliothèque nationale de France, département Sciences et techniques, 8-TE97-164</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>96.54</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Reproduction fidèle des discussions qui ont eu lieu sur la lithotripsie et la taille, à l'Académie royale de médecine, en 1835, à l'occasion d'un rapport de M. Velpeau sur ces deux opérations... , suivi de lettres sur le même sujet, d'une comparaison entre la méthode ancienne et la méthode actuelle de broiement des calculs... Par M. Doubovitzki,...</title>
+<date nbIssue="1">1835</date>
+<first_indexation_date>12/01/2010</first_indexation_date>
+<streamable>false</streamable>
+</results>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.012" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k6585194k</identifier>
+<datestamp>2018-04-26</datestamp>
+<setSpec>gallica:theme:6:61</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k6585194k</dc:identifier>
+<dc:title>Éloges lus dans les séances publiques de l'Académie royale de chirurgie, de 1750 à 1792 / par A. Louis,... ; recueillis et publiés, pour la première fois, au nom de l'Académie impériale de médecine, et d'après les manuscrits originaux, avec une introduction, des notes et des éclaircissements... par E.-Fréd. Dubois, d'Amiens,.... [Éloge de Louis / par P. Sue]</dc:title>
+<dc:creator>Louis, Antoine (1723-1792). Auteur du texte</dc:creator>
+<dc:creator>Sue, Pierre (1739-1816). Auteur du texte</dc:creator>
+<dc:contributor>Dubois, Frédéric (1797-1873). Éditeur scientifique</dc:contributor>
+<dc:publisher>J.-B. Baillière et fils (Paris)</dc:publisher>
+<dc:date>1859</dc:date>
+<dc:subject xml:lang="fre">Médecine -- Associations</dc:subject>
+<dc:description>Comprend : Éloge de Louis</dc:description>
+<dc:format>1 vol. (III-LXXVI-456 p.) ; in-8</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30837661x</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Bibliothèque nationale de France, département Sciences et techniques, 8-T7-633</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:description>Appartient à l’ensemble documentaire : Picardi1</dc:description>
+<dc:format>Nombre total de vues :  578</dc:format>
+<dc:description>Contient une table des matières</dc:description>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>61</sdewey>
+<dewey>6</dewey>
+<source>Bibliothèque nationale de France, département Sciences et techniques, 8-T7-633</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>99.96</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Éloges lus dans les séances publiques de l'Académie royale de chirurgie, de 1750 à 1792 / par A. Louis,... ; recueillis et publiés, pour la première fois, au nom de l'Académie impériale de médecine, et d'après les manuscrits originaux, avec une introduction, des notes et des éclaircissements... par E.-Fréd. Dubois, d'Amiens,.... [Éloge de Louis / par P. Sue]</title>
+<date nbIssue="1">1859</date>
+<first_indexation_date>28/05/2014</first_indexation_date>
+<streamable>false</streamable>
+</results>

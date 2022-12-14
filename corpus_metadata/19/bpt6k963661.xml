@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.011" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k963661</identifier>
+<datestamp>2019-07-19</datestamp>
+<setSpec>gallica:theme:8:84</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k963661</dc:identifier>
+<dc:title>Par mer et par terre. Le bâtard / par Gustave Aimard</dc:title>
+<dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30006221b</dc:relation>
+<dc:creator>Aimard, Gustave (1818-1883). Auteur du texte</dc:creator>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:date>1879</dc:date>
+<dc:format>2 vol. (364, 384 p.) ; in-18</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30006221b</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Bibliothèque nationale de France, département Littérature et art, 8-Y2-3083 (2)</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:description>Appartient à l’ensemble documentaire : UnivJeun0</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>84</sdewey>
+<dewey>8</dewey>
+<source>Bibliothèque nationale de France, département Littérature et art, 8-Y2-3083 (2)</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>96.01</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Par mer et par terre. Le bâtard / par Gustave Aimard</title>
+<date nbIssue="1">1879</date>
+<first_indexation_date>15/10/2007</first_indexation_date>
+<streamable>false</streamable>
+</results>

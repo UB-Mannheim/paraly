@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.014" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k3222389</identifier>
+<datestamp>2020-01-09</datestamp>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k3222389</dc:identifier>
+<dc:title>Lettres de Gustave Flaubert à George Sand. précédées d'une étude / par Guy de Maupassant</dc:title>
+<dc:creator>Flaubert, Gustave (1821-1880). Auteur du texte</dc:creator>
+<dc:creator>Maupassant, Guy de (1850-1893). Auteur du texte</dc:creator>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:date>1884</dc:date>
+<dc:subject xml:lang="fre">Sand, George (1804-1876)</dc:subject>
+<dc:description>Comprend : Étude [sur Gustave Flaubert]</dc:description>
+<dc:format>LXXXVI-289 p. ; 19 cm</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32110185h</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Bibliothèque nationale de France, département Littérature et art, 16-Z-9475</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  409</dc:format>
+<dc:description>Avec mode texte</dc:description>
+<dc:description>Correspondance</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<source>Bibliothèque nationale de France, département Littérature et art, 16-Z-9475</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>88.35</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Lettres de Gustave Flaubert à George Sand. précédées d'une étude / par Guy de Maupassant</title>
+<date nbIssue="1">1884</date>
+<first_indexation_date>10/02/2019</first_indexation_date>
+<streamable>false</streamable>
+</results>

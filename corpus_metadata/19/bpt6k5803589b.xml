@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.017" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k5803589b</identifier>
+<datestamp>2021-11-12</datestamp>
+<setSpec>gallica:theme:8:84</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5803589b</dc:identifier>
+<dc:title>En rade / par J.-K. Huysmans ; eaux-fortes en couleurs et bois originaux de Paul Guignebault</dc:title>
+<dc:creator>Huysmans, Joris-Karl (1848-1907). Auteur du texte</dc:creator>
+<dc:contributor>Guignebault, Paul. Graveur</dc:contributor>
+<dc:publisher>A. Blaizot (Paris)</dc:publisher>
+<dc:description>[En rade (français)]</dc:description>
+<dc:relation>Notice d’oeuvre : http://catalogue.bnf.fr/ark:/12148/cb17789677d</dc:relation>
+<dc:date>1911</dc:date>
+<dc:format>206 p. : fig., pl. en coul. ; Gr. in-8</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb306314680</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Littérature et art, 4-Y2-3509</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  298</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>84</sdewey>
+<dewey>8</dewey>
+<source>Bibliothèque nationale de France, département Littérature et art, 4-Y2-3509</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>94.03</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>En rade / par J.-K. Huysmans ; eaux-fortes en couleurs et bois originaux de Paul Guignebault</title>
+<date nbIssue="1">1911</date>
+<first_indexation_date>25/01/2010</first_indexation_date>
+<streamable>false</streamable>
+</results>

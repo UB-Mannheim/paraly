@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.014" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k58141387</identifier>
+<datestamp>2021-03-19</datestamp>
+<setSpec>gallica:corpus:HNormand1</setSpec>
+<setSpec>gallica:theme:8:84</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k58141387</dc:identifier>
+<dc:title>Oeuvres posthumes de Jacques-Henri-Bernardin de Saint-Pierre / mises en ordre et précédées de la vie de l'auteur, par L. Aimé-Martin</dc:title>
+<dc:creator>Bernardin de Saint-Pierre, Henri (1737-1814). Auteur du texte</dc:creator>
+<dc:creator>Martin, Louis-Aimé (1782-1847). Auteur du texte</dc:creator>
+<dc:contributor>Martin, Louis-Aimé (1782-1847). Éditeur scientifique</dc:contributor>
+<dc:contributor>Girodet, Anne-Louis (1767-1824). Illustrateur</dc:contributor>
+<dc:contributor>Wedgwood, John Taylor (1782-1856). Graveur</dc:contributor>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:date>1833</dc:date>
+<dc:description>Comprend : Essai sur la vie de Bernardin de Saint-Pierre / L. Aimé-Martin</dc:description>
+<dc:format>1 vol. (LXXXVII-621 p.à 2 col.-[1] f. de front.) : ill. en noir ; in-4 (26 cm)</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb312840412</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Littérature et art, Z-5174</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:description>Appartient à l’ensemble documentaire : HNormand1</dc:description>
+<dc:description>Appartient à l’ensemble documentaire : BmLHav000</dc:description>
+<dc:format>Nombre total de vues :  722</dc:format>
+<dc:description>Contient une table des matières</dc:description>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>84</sdewey>
+<dewey>8</dewey>
+<source>Bibliothèque nationale de France, département Littérature et art, Z-5174</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>99.98</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Oeuvres posthumes de Jacques-Henri-Bernardin de Saint-Pierre / mises en ordre et précédées de la vie de l'auteur, par L. Aimé-Martin</title>
+<date nbIssue="1">1833</date>
+<first_indexation_date>22/03/2010</first_indexation_date>
+<streamable>false</streamable>
+</results>
