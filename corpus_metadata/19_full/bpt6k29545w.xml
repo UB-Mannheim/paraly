@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.011" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k29545w</identifier>
+<datestamp>2019-10-04</datestamp>
+<setSpec>gallica:theme:7:70</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k29545w</dc:identifier>
+<dc:title>Lettres de Marie Bashkirtseff / avec quatre portraits, des autographes, et une préface par François Coppée,...</dc:title>
+<dc:creator>Bashkirtseff, Marie (1858-1884). Auteur du texte</dc:creator>
+<dc:contributor>Coppée, François (1842-1908). Préfacier</dc:contributor>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:date>1891</dc:date>
+<dc:format>1 vol. (XII-282 p.-[5] p. de fac-sim.) ; in-12</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb300637337</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Bibliothèque nationale de France</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  306</dc:format>
+<dc:description>Contient une table des matières</dc:description>
+<dc:description>Correspondance</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>70</sdewey>
+<dewey>7</dewey>
+<source>Bibliothèque nationale de France</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>94.73</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Lettres de Marie Bashkirtseff / avec quatre portraits, des autographes, et une préface par François Coppée,...</title>
+<date nbIssue="1">1891</date>
+<first_indexation_date>15/10/2007</first_indexation_date>
+<streamable>false</streamable>
+</results>

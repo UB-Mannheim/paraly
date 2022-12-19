@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.021" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k319264h</identifier>
+<datestamp>2021-10-29</datestamp>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k319264h</dc:identifier>
+<dc:title>Les types de Paris / texte par Edmond de Goncourt, Alphonse Daudet, Emile Zola... ; dessins de Jean-François Raffaëlli</dc:title>
+<dc:creator>Ajalbert, Jean (1863-1947). Auteur du texte</dc:creator>
+<dc:creator>Céard, Henry (1851-1924). Auteur du texte</dc:creator>
+<dc:creator>Champsaur, Félicien (1858-1934). Auteur du texte</dc:creator>
+<dc:creator>Daudet, Alphonse (1840-1897). Auteur du texte</dc:creator>
+<dc:creator>Fourcaud, Louis de (1851-1914). Auteur du texte</dc:creator>
+<dc:creator>Goncourt, Edmond de (1822-1896). Auteur du texte</dc:creator>
+<dc:creator>Marx, Roger (1859-1913). Auteur du texte</dc:creator>
+<dc:creator>Maupassant, Guy de (1850-1893). Auteur du texte</dc:creator>
+<dc:creator>Mirbeau, Octave (1848-1917). Auteur du texte</dc:creator>
+<dc:creator>Mullem, Louis (1836-1908). Auteur du texte</dc:creator>
+<dc:creator>Proust, Antonin (1832-1905). Auteur du texte</dc:creator>
+<dc:creator>Richepin, Jean (1849-1926). Auteur du texte</dc:creator>
+<dc:creator>Rosny, J.-H.. Auteur du texte</dc:creator>
+<dc:creator>Bonnetain, Paul (1858-1899). Auteur du texte</dc:creator>
+<dc:creator>Bonnières, Robert de (1850-1905). Auteur du texte</dc:creator>
+<dc:creator>Bourget, Paul (1852-1935). Auteur du texte</dc:creator>
+<dc:creator>Geffroy, Gustave (1855-1926). Auteur du texte</dc:creator>
+<dc:creator>Gréville, Henry (1842-1902). Auteur du texte</dc:creator>
+<dc:creator>Huysmans, Joris-Karl (1848-1907). Auteur du texte</dc:creator>
+<dc:creator>Wolff, Albert (1825-1891). Auteur du texte</dc:creator>
+<dc:creator>Zola, Émile (1840-1902). Auteur du texte</dc:creator>
+<dc:contributor>Raffaëlli, Jean-François (1850-1924). Illustrateur</dc:contributor>
+<dc:contributor>Raffaëlli, Jean-François (1850-1924). Illustrateur</dc:contributor>
+<dc:publisher>E. Plon, Nourrit et Cie (Paris)</dc:publisher>
+<dc:date>1889</dc:date>
+<dc:subject xml:lang="fre">Moeurs et coutumes -- Paris (France) -- 1870-1914</dc:subject>
+<dc:format>En 10 livraisons (X-163 p.) : fig. et pl. en noir et en coul., ill. en coul. ; in-4</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb319967427</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-LI3-832</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:description>Mécénat texte imprimé : Cet ouvrage a été numérisé grâce à M. Alain Domec</dc:description>
+<dc:format>Nombre total de vues :  279</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 4-LI3-832</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>87.17</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Les types de Paris / texte par Edmond de Goncourt, Alphonse Daudet, Emile Zola... ; dessins de Jean-François Raffaëlli</title>
+<date nbIssue="1">1889</date>
+<first_indexation_date>18/03/2018</first_indexation_date>
+<streamable>false</streamable>
+</results>

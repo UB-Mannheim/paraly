@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.027" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k6147761t</identifier>
+<datestamp>2021-05-14</datestamp>
+<setSpec>gallica:theme:6:61</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k6147761t</dc:identifier>
+<dc:title>Nouveaux travaux originaux sur l'iodoradiumthérapie / [par Pierre Barbier, F. Dubé, S. Bernheim, M. A. Lorot,...]</dc:title>
+<dc:creator>Barbier, Pierre (18..-19.. ; médecin). Auteur du texte</dc:creator>
+<dc:creator>Dubé, L F (Dr). Auteur du texte</dc:creator>
+<dc:creator>Bernheim, Samuel (1855-1915). Auteur du texte</dc:creator>
+<dc:creator>Lorot, Auguste (Dr). Auteur du texte</dc:creator>
+<dc:publisher>impr. de E. Arrault (Tours)</dc:publisher>
+<dc:date>1914</dc:date>
+<dc:subject xml:lang="fre">Thérapeutique</dc:subject>
+<dc:description>Comprend : De la médication iodo-radio-active en phtisiothérapie ; Traitement scientifique complet de la tuberculose... ; Méthode intensive d'iodoradiumthérapie dans la tuberculose ; Note sur la pharmacologie du radium</dc:description>
+<dc:format>63 p. ; gr. in-8</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31761077s</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Sciences et techniques, 4-TE7-511</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  65</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>61</sdewey>
+<dewey>6</dewey>
+<source>Bibliothèque nationale de France, département Sciences et techniques, 4-TE7-511</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>97.68</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Nouveaux travaux originaux sur l'iodoradiumthérapie / [par Pierre Barbier, F. Dubé, S. Bernheim, M. A. Lorot,...]</title>
+<date nbIssue="1">1914</date>
+<first_indexation_date>19/10/2010</first_indexation_date>
+<streamable>false</streamable>
+</results>

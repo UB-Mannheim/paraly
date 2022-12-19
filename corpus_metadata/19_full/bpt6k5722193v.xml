@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.244" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k5722193v</identifier>
+<datestamp>2018-04-26</datestamp>
+<setSpec>gallica:theme:3:32</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5722193v</dc:identifier>
+<dc:title>Du système suivi par le Directoire exécutif relativement à la République cisalpine, et quelques détails sur les derniers événements qui ont eu lieu dans cette république . Par le citoyen Ed. Bignon,...</dc:title>
+<dc:creator>Bignon, Louis-Pierre-Édouard (1771-1841). Auteur du texte</dc:creator>
+<dc:publisher>F. Buisson (Paris)</dc:publisher>
+<dc:date>1798</dc:date>
+<dc:subject xml:lang="fre">France (1795-1799, Directoire)</dc:subject>
+<dc:format>75 p. ; in-8</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb340290502</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LB42-2835</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  83</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>32</sdewey>
+<dewey>3</dewey>
+<source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LB42-2835</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>84.63</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Du système suivi par le Directoire exécutif relativement à la République cisalpine, et quelques détails sur les derniers événements qui ont eu lieu dans cette république . Par le citoyen Ed. Bignon,...</title>
+<date nbIssue="1">1798</date>
+<first_indexation_date>21/09/2009</first_indexation_date>
+<streamable>false</streamable>
+</results>

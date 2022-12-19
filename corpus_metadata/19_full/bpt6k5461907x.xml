@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.012" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k5461907x</identifier>
+<datestamp>2020-08-14</datestamp>
+<setSpec>gallica:corpus:Picardi1</setSpec>
+<setSpec>gallica:theme:9:944</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5461907x</dc:identifier>
+<dc:title>Lettres inédites d'un amnistié / par Jules Renard</dc:title>
+<dc:creator>Renard, Jules (18..-19.. ; instituteur). Auteur du texte</dc:creator>
+<dc:publisher> (Amiens)</dc:publisher>
+<dc:date>1880</dc:date>
+<dc:format>1 vol. (302 p.) ; 15 cm</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice de recueil : http://catalogue.bnf.fr/ark:/12148/cb39365141f</dc:relation>
+<dc:relation>Appartient à : Biographies contemporaines</dc:relation>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb311960976</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, LB57-7275</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:description>Appartient à l’ensemble documentaire : Picardi1</dc:description>
+<dc:format>Nombre total de vues :  313</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>944</sdewey>
+<dewey>9</dewey>
+<source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, LB57-7275</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>91.99</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Lettres inédites d'un amnistié / par Jules Renard</title>
+<date nbIssue="1">1880</date>
+<first_indexation_date>12/12/2008</first_indexation_date>
+<streamable>false</streamable>
+</results>

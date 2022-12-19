@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.015" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k9628621j</identifier>
+<datestamp>2021-04-16</datestamp>
+<setSpec>gallica:theme:8:84</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9628621j</dc:identifier>
+<dc:title>Les filles du feu : Sylvie, Jemmy, Octavie, Isis, Émilie / Gérard de Nerval ; avec une préface de Jules Levallois ; dessins d'Émile Adan gravés à l'eau-forte par Le Rat</dc:title>
+<dc:creator>Nerval, Gérard de (1808-1855). Auteur du texte</dc:creator>
+<dc:contributor>Levallois, Jules (1829-1903). Préfacier</dc:contributor>
+<dc:contributor>Adan, Émile (1839-1937). Illustrateur</dc:contributor>
+<dc:contributor>Le Rat, Paul-Edme (1849-1892). Graveur</dc:contributor>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:description>[Les filles du feu (français)]</dc:description>
+<dc:relation>Notice d’oeuvre : http://catalogue.bnf.fr/ark:/12148/cb11992732r</dc:relation>
+<dc:date>1888</dc:date>
+<dc:format>1 vol. (XXXVII-250 p.-[6] f. de pl.) : ill. ; 21 cm</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31009478q</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Littérature et art, 8-Y2-41902</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  344</dc:format>
+<dc:description>Contient une table des matières</dc:description>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>84</sdewey>
+<dewey>8</dewey>
+<source>Bibliothèque nationale de France, département Littérature et art, 8-Y2-41902</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>99.64</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Les filles du feu : Sylvie, Jemmy, Octavie, Isis, Émilie / Gérard de Nerval ; avec une préface de Jules Levallois ; dessins d'Émile Adan gravés à l'eau-forte par Le Rat</title>
+<date nbIssue="1">1888</date>
+<first_indexation_date>15/02/2016</first_indexation_date>
+<streamable>false</streamable>
+</results>

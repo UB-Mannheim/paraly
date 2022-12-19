@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.019" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k97800407</identifier>
+<datestamp>2022-12-02</datestamp>
+<setSpec>gallica:theme:8:84</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k97800407</dc:identifier>
+<dc:title>Poil de Carotte / Jules Renard ; illustrations de Poulbot</dc:title>
+<dc:creator>Renard, Jules (1864-1910). Auteur du texte</dc:creator>
+<dc:contributor>Poulbot, Francisque (1879-1946). Illustrateur</dc:contributor>
+<dc:publisher>Ed. Terres latines</dc:publisher>
+<dc:description>[Poil de carotte (français)]</dc:description>
+<dc:relation>Notice d’oeuvre : http://catalogue.bnf.fr/ark:/12148/cb16688716x</dc:relation>
+<dc:date>1900-1915</dc:date>
+<dc:description>Collection : Leurs chefs-d'oeuvre</dc:description>
+<dc:description>Collection : Leurs chefs-d'oeuvre</dc:description>
+<dc:format>1 vol. (204 p.) : ill. ; 22 cm</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb370743388</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>2000-35848, 2000-35848</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  230</dc:format>
+<dc:description>Contient une table des matières</dc:description>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>84</sdewey>
+<dewey>8</dewey>
+<source>2000-35848, 2000-35848</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>99.72</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Poil de Carotte / Jules Renard ; illustrations de Poulbot</title>
+<date nbIssue="1">1900-1915</date>
+<first_indexation_date>19/09/2017</first_indexation_date>
+<streamable>false</streamable>
+</results>

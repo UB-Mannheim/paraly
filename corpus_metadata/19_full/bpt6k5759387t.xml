@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.265" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k5759387t</identifier>
+<datestamp>2021-02-05</datestamp>
+<setSpec>gallica:theme:8:84</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5759387t</dc:identifier>
+<dc:title>Alexandre Dumas illustré ; 30. Le meneur de loups / ill. de Riou ; ill. de Castelli, Gerlier, Morin... [et al.] ; ill. de Daubigny, Gustave Doré, de La Charlerie, etc.]</dc:title>
+<dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb34343474n</dc:relation>
+<dc:relation>Titre d'ensemble : Alexandre Dumas illustré</dc:relation>
+<dc:creator>Dumas, Alexandre (1802-1870). Auteur du texte</dc:creator>
+<dc:contributor>Riou, Édouard (1833-1900). Illustrateur</dc:contributor>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:date>1907</dc:date>
+<dc:format>3 parties en 1 vol. (68-101-92 p.) : ill. ; 30 cm</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb35741942r</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Littérature et art, 4-Y2-10900 (30)</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  72</dc:format>
+<dc:description>Contient une table des matières</dc:description>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>84</sdewey>
+<dewey>8</dewey>
+<source>Bibliothèque nationale de France, département Littérature et art, 4-Y2-10900 (30)</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>92.68</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Alexandre Dumas illustré ; 30. Le meneur de loups / ill. de Riou ; ill. de Castelli, Gerlier, Morin... [et al.] ; ill. de Daubigny, Gustave Doré, de La Charlerie, etc.]</title>
+<date nbIssue="1">1907</date>
+<first_indexation_date>03/03/2010</first_indexation_date>
+<streamable>false</streamable>
+</results>

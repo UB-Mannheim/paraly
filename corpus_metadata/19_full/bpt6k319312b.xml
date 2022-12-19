@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.009" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k319312b</identifier>
+<datestamp>2019-11-29</datestamp>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k319312b</dc:identifier>
+<dc:title>Lettres de Jean-Arthur Rimbaud, Égypte, Arabie, Éthiopie, avec une introduction et des notes par Paterne Berrichon. Fac-similé d'une lettre de Ménélick à Rimbaud</dc:title>
+<dc:creator>Rimbaud, Arthur (1854-1891). Auteur du texte</dc:creator>
+<dc:creator>Ménélick (roi d Abyssinie). Auteur du texte</dc:creator>
+<dc:contributor>Berrichon, Paterne (1855-1922). Préfacier</dc:contributor>
+<dc:contributor>Berrichon, Paterne (1855-1922). Préfacier</dc:contributor>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:date>1899</dc:date>
+<dc:description>Comprend : Lettre... à Rimbaud</dc:description>
+<dc:format>In-12, 274 p., fac-sim.</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31218245h</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Bibliothèque nationale de France, département Littérature et art, 8-Z-15155</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:description>Mécénat texte imprimé : Cet ouvrage a été numérisé grâce à un don d'Eric Lesueur</dc:description>
+<dc:format>Nombre total de vues :  296</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<source>Bibliothèque nationale de France, département Littérature et art, 8-Z-15155</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>88.29</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Lettres de Jean-Arthur Rimbaud, Égypte, Arabie, Éthiopie, avec une introduction et des notes par Paterne Berrichon. Fac-similé d'une lettre de Ménélick à Rimbaud</title>
+<date nbIssue="1">1899</date>
+<first_indexation_date>11/03/2018</first_indexation_date>
+<streamable>false</streamable>
+</results>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.014" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k1269895b</identifier>
+<datestamp>2022-06-22</datestamp>
+<setSpec>gallica:theme:7:79</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k1269895b</dc:identifier>
+<dc:title>Théatre de campagne. Septième série, E. Legouvé, A. Cahen, Cordier, Charles Cros, E. Desbeaux, A. Ehrard, J. Guillemot, E. d'Hervilly, G. de Létorière, Mendel, J. Normand, A. des Roseaux, le comte Sollohub, G. Sujol, E. Verconsin (3e éd.)</dc:title>
+<dc:creator>Legouvé, Ernest (1807-1903). Auteur du texte</dc:creator>
+<dc:creator>Cros, Charles (1842-1888). Auteur du texte</dc:creator>
+<dc:creator>Des Roseaux, Armand. Auteur du texte</dc:creator>
+<dc:creator>Normand, Jacques (1848-1931). Auteur du texte</dc:creator>
+<dc:creator>Isle, Henriette d' (1840-1897). Auteur du texte</dc:creator>
+<dc:creator>Sołłohub, Włodzimierz. Auteur du texte</dc:creator>
+<dc:creator>Verconsin, Eugène (1823-1891). Auteur du texte</dc:creator>
+<dc:creator>Cros, Charles (1842-1888). Auteur du texte</dc:creator>
+<dc:creator>Hervilly, Ernest d' (1839-1911). Auteur du texte</dc:creator>
+<dc:creator>Desbeaux, Émile (1845-1903). Auteur du texte</dc:creator>
+<dc:creator>Mendel, Émile. Auteur du texte</dc:creator>
+<dc:creator>Cros, Charles (1842-1888). Auteur du texte</dc:creator>
+<dc:creator>Sujol, G. Auteur du texte</dc:creator>
+<dc:creator>Sołłohub, Włodzimierz. Auteur du texte</dc:creator>
+<dc:creator>Guillemot, Jules (1835-1923). Auteur du texte</dc:creator>
+<dc:creator>Cros, Charles (1842-1888). Auteur du texte</dc:creator>
+<dc:creator>Ehrard, Auguste. Auteur du texte</dc:creator>
+<dc:creator>Cordier (18..-19.. ; auteur dramatique). Auteur du texte</dc:creator>
+<dc:creator>Cahen, A. Auteur du texte</dc:creator>
+<dc:publisher>Paul Ollendorff (Paris)</dc:publisher>
+<dc:date>1881</dc:date>
+<dc:format>1 vol. (337 p.) ; 18 cm</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31557356j</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Littérature et art, 8-YF-24 (7)</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  373</dc:format>
+<dc:description>Contient une table des matières</dc:description>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>79</sdewey>
+<dewey>7</dewey>
+<source>Bibliothèque nationale de France, département Littérature et art, 8-YF-24 (7)</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>98.71</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Théatre de campagne. Septième série, E. Legouvé, A. Cahen, Cordier, Charles Cros, E. Desbeaux, A. Ehrard, J. Guillemot, E. d'Hervilly, G. de Létorière, Mendel, J. Normand, A. des Roseaux, le comte Sollohub, G. Sujol, E. Verconsin (3e éd.)</title>
+<date nbIssue="1">1881</date>
+<first_indexation_date>31/07/2017</first_indexation_date>
+<streamable>false</streamable>
+</results>

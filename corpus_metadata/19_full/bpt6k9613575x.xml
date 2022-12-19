@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.011" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k9613575x</identifier>
+<datestamp>2022-06-22</datestamp>
+<setSpec>gallica:theme:7:79</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9613575x</dc:identifier>
+<dc:title>Théatre de campagne. Huitième série, Eugène Verconsin, Gabriel Fiquier, Eugène Manuel,... [et al.]</dc:title>
+<dc:creator>Verconsin, Eugène (1823-1891). Auteur du texte</dc:creator>
+<dc:creator>Liquier, Gabriel (1843-1887). Auteur du texte</dc:creator>
+<dc:creator>Manuel, Eugène (1823-1901). Auteur du texte</dc:creator>
+<dc:creator>Launay, Alphonse de (1822-1891). Auteur du texte</dc:creator>
+<dc:creator>Villetard, Amélie. Auteur du texte</dc:creator>
+<dc:creator>Cortambert, Richard (1836-1884). Auteur du texte</dc:creator>
+<dc:creator>Depré, Ernest (1854-1932). Auteur du texte</dc:creator>
+<dc:creator>Marthold, Jules de (1847-1927). Auteur du texte</dc:creator>
+<dc:creator>Cros, Charles (1842-1888). Auteur du texte</dc:creator>
+<dc:creator>Hervilly, Ernest d' (1839-1911). Auteur du texte</dc:creator>
+<dc:creator>Feydeau, Georges (1862-1921). Auteur du texte</dc:creator>
+<dc:creator>Laluyé, Léopold (1826-1899). Auteur du texte</dc:creator>
+<dc:creator>Des Roseaux, Armand. Auteur du texte</dc:creator>
+<dc:creator>Normand, Jacques (1848-1931). Auteur du texte</dc:creator>
+<dc:creator>Clairville, Charles (1855-1918). Auteur du texte</dc:creator>
+<dc:publisher>Paul Ollendorff (Paris)</dc:publisher>
+<dc:date>1882</dc:date>
+<dc:description>Comprend : Le rideau ; Un amour électrique ; Traitement thermal ; Le premier roman ; L'article II / dit par Mlle Delaporte ; Le thème russe ; Retour de voyage ; La crémaillère ; Un proverbe de salon ; Le violon ; La laitière et le pot aux roses ; Notre futur ; Une flèche ; Le rigollot ; Les claqueurs</dc:description>
+<dc:format>1 vol. (358 p.) ; 18 cm</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31557380d</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Littérature et art, 8-YF-24 (8)</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  378</dc:format>
+<dc:description>Contient une table des matières</dc:description>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>79</sdewey>
+<dewey>7</dewey>
+<source>Bibliothèque nationale de France, département Littérature et art, 8-YF-24 (8)</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>99.45</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Théatre de campagne. Huitième série, Eugène Verconsin, Gabriel Fiquier, Eugène Manuel,... [et al.]</title>
+<date nbIssue="1">1882</date>
+<first_indexation_date>09/11/2015</first_indexation_date>
+<streamable>false</streamable>
+</results>

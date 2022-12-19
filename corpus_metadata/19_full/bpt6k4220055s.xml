@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.045" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k4220055s</identifier>
+<datestamp>2020-01-31</datestamp>
+<setSpec>gallica:theme:8:80</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k4220055s</dc:identifier>
+<dc:title>La reine Margot / par Alexandre Dumas. L' allée des veuves / par Charles Rabou. L'honneur de la famille / par Clémence Robert</dc:title>
+<dc:creator>Dumas, Alexandre (1802-1870). Auteur du texte</dc:creator>
+<dc:creator>Rabou, Charles (1803-1871). Auteur du texte</dc:creator>
+<dc:creator>Robert, Clémence (1797-1872). Auteur du texte</dc:creator>
+<dc:publisher> (New-York)</dc:publisher>
+<dc:description>[La reine Margot (français)]</dc:description>
+<dc:relation>Notice d’oeuvre : http://catalogue.bnf.fr/ark:/12148/cb12417486p</dc:relation>
+<dc:date>1845</dc:date>
+<dc:description>Comprend : L' allée des veuves / par Charles Rabou ; L' honneur de la famille / par Clémence Robert</dc:description>
+<dc:format>448 p. ; 25 cm</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32055888b</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Bibliothèque nationale de France, département Littérature et art, Y2-323</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  460</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>80</sdewey>
+<dewey>8</dewey>
+<source>Bibliothèque nationale de France, département Littérature et art, Y2-323</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>89.25</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>La reine Margot / par Alexandre Dumas. L' allée des veuves / par Charles Rabou. L'honneur de la famille / par Clémence Robert</title>
+<date nbIssue="1">1845</date>
+<first_indexation_date>17/10/2019</first_indexation_date>
+<streamable>false</streamable>
+</results>

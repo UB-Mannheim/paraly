@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.009" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k938017r</identifier>
+<datestamp>2021-12-31</datestamp>
+<setSpec>gallica:theme:8:80</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k938017r</dc:identifier>
+<dc:title>La vie littéraire sous Louis-Philippe : François Buloz et ses amis (Nouvelle édition revue) / par Marie-Louise Pailleron</dc:title>
+<dc:creator>Pailleron, Marie-Louise (1872-1951). Auteur du texte</dc:creator>
+<dc:creator>Vigny, Alfred de (1797-1863). Auteur du texte</dc:creator>
+<dc:publisher>Firmin-Didot (Paris)</dc:publisher>
+<dc:date>1930</dc:date>
+<dc:description>Comprend : [Lettres à Francois Buloz]</dc:description>
+<dc:format>1 vol. (II-460 p.) : portr., pl. ; in-8</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb32504219f</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Littérature et art, 16-Z-4728</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  508</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>80</sdewey>
+<dewey>8</dewey>
+<source>Bibliothèque nationale de France, département Littérature et art, 16-Z-4728</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>88.2</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>La vie littéraire sous Louis-Philippe : François Buloz et ses amis (Nouvelle édition revue) / par Marie-Louise Pailleron</title>
+<date nbIssue="1">1930</date>
+<first_indexation_date>02/01/2022</first_indexation_date>
+<streamable>false</streamable>
+</results>

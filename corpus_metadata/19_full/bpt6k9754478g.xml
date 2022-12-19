@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.204" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k9754478g</identifier>
+<datestamp>2021-12-31</datestamp>
+<setSpec>gallica:theme:9:92</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k9754478g</dc:identifier>
+<dc:title>Théodore Aubanel, un chantre provençal de la beauté / Nicolas Welter ; traduit de l'allemand par J.-J. Waldner, F. Charpin ; avec un discours de Frédéric Mistral et un portrait de Théodore Aubanel</dc:title>
+<dc:creator>Welter, Nikolaus (1871-1951). Auteur du texte</dc:creator>
+<dc:creator>Mistral, Frédéric (1830-1914). Auteur du texte</dc:creator>
+<dc:contributor>Waldner, Jean. Traducteur</dc:contributor>
+<dc:contributor>Waldner, Jules. Traducteur</dc:contributor>
+<dc:contributor>Charpin, Frédéric (1883-1914). Traducteur</dc:contributor>
+<dc:publisher>Aubertin et Rolle (Marseille)</dc:publisher>
+<dc:date>1904</dc:date>
+<dc:subject xml:lang="fre">Aubanel, Théodore</dc:subject>
+<dc:description>Comprend : Discours de réception... à l'Académie de Marseille</dc:description>
+<dc:format>1 vol. (LXVII-245 p.) : portrait ; in-16</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31636958d</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-50797</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  338</dc:format>
+<dc:description>Contient une table des matières</dc:description>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>92</sdewey>
+<dewey>9</dewey>
+<source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LN27-50797</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>99.48</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Théodore Aubanel, un chantre provençal de la beauté / Nicolas Welter ; traduit de l'allemand par J.-J. Waldner, F. Charpin ; avec un discours de Frédéric Mistral et un portrait de Théodore Aubanel</title>
+<date nbIssue="1">1904</date>
+<first_indexation_date>14/11/2016</first_indexation_date>
+<streamable>false</streamable>
+</results>

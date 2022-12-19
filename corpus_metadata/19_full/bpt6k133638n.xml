@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.012" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k133638n</identifier>
+<datestamp>2019-07-20</datestamp>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k133638n</dc:identifier>
+<dc:title>La mare au diable / George Sand</dc:title>
+<dc:creator>Sand, George (1804-1876). Auteur du texte</dc:creator>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:date>1846</dc:date>
+<dc:format>2 vol. (308, 310-[2] p.) ; in-8</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31293506w</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Bibliothèque nationale de France, département Arsenal, 8-BL-23392</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:description>Appartient à l’ensemble documentaire : GTextes1</dc:description>
+<dc:format>Nombre total de vues :  632</dc:format>
+<dc:format>application/epub+zip 3.0 accessible</dc:format>
+<dc:format>Format adaptable de type XML DTBook, 2005-3</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<source>Bibliothèque nationale de France, département Arsenal, 8-BL-23392</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>100.0</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>La mare au diable / George Sand</title>
+<epubFile>https://gallica.bnf.fr/ark:/12148/bpt6k133638n.epub</epubFile>
+<date nbIssue="1">1846</date>
+<first_indexation_date>12/03/2012</first_indexation_date>
+<streamable>false</streamable>
+</results>

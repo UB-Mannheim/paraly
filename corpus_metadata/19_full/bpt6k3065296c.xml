@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.014" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k3065296c</identifier>
+<datestamp>2019-10-04</datestamp>
+<setSpec>gallica:theme:8:84</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k3065296c</dc:identifier>
+<dc:title>Mme de Girardin / textes choisis et commentés par Jean Balde</dc:title>
+<dc:creator>Girardin, Delphine de (1804-1855). Auteur du texte</dc:creator>
+<dc:contributor>Balde, Jean (1885-1938). Éditeur scientifique</dc:contributor>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:date>1913</dc:date>
+<dc:subject xml:lang="fre">Girardin, Delphine de (1804-1855)</dc:subject>
+<dc:description>Collection : Bibliothèque française. XIXe siècle</dc:description>
+<dc:description>Collection : Bibliothèque française</dc:description>
+<dc:format>1 vol. (II-355 p.) : portr. ; in-12</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30510550c</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Bibliothèque nationale de France, département Littérature et art, 8-Z-19247</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  388</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>84</sdewey>
+<dewey>8</dewey>
+<source>Bibliothèque nationale de France, département Littérature et art, 8-Z-19247</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>88.8</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Mme de Girardin / textes choisis et commentés par Jean Balde</title>
+<date nbIssue="1">1913</date>
+<first_indexation_date>21/07/2019</first_indexation_date>
+<streamable>false</streamable>
+</results>

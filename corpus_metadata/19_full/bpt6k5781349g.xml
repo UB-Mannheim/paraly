@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.009" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k5781349g</identifier>
+<datestamp>2021-02-05</datestamp>
+<setSpec>gallica:theme:5:54</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k5781349g</dc:identifier>
+<dc:title>Pot-Bouille / Émile Zola ; édition illustrée par Georges Bellenger et Kauffmann</dc:title>
+<dc:creator>Zola, Émile (1840-1902). Auteur du texte</dc:creator>
+<dc:contributor>Bellenger, Georges (1847-1918). Illustrateur</dc:contributor>
+<dc:contributor>Kauffmann, Paul-Adolphe (1849-1940). Illustrateur</dc:contributor>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:description>[Pot-Bouille (français)]</dc:description>
+<dc:relation>Notice d’oeuvre : http://catalogue.bnf.fr/ark:/12148/cb135370582</dc:relation>
+<dc:date>1883</dc:date>
+<dc:format>452 p. : figure, pl., couv. ill. ; in-4</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb340064819</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Littérature et art, 4-Y2-799</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  472</dc:format>
+<dc:format>application/epub+zip</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>54</sdewey>
+<dewey>5</dewey>
+<source>Bibliothèque nationale de France, département Littérature et art, 4-Y2-799</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>99.98</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Pot-Bouille / Émile Zola ; édition illustrée par Georges Bellenger et Kauffmann</title>
+<epubFile>https://gallica.bnf.fr/ark:/12148/bpt6k5781349g.epub</epubFile>
+<date nbIssue="1">1883</date>
+<first_indexation_date>16/12/2009</first_indexation_date>
+<streamable>false</streamable>
+</results>

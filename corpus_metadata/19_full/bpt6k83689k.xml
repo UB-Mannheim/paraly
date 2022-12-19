@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.012" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k83689k</identifier>
+<datestamp>2019-07-20</datestamp>
+<setSpec>gallica:theme:2:20</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k83689k</dc:identifier>
+<dc:title>Des jésuites / par MM. Michelet et Quinet</dc:title>
+<dc:creator>Michelet, Jules (1798-1874). Auteur du texte</dc:creator>
+<dc:creator>Quinet, Edgar (1803-1875). Auteur du texte</dc:creator>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:date>1843</dc:date>
+<dc:subject xml:lang="fre">Jésuites -- Histoire</dc:subject>
+<dc:subject xml:lang="fre">Anticléricalisme</dc:subject>
+<dc:format>1 vol. (VII-294 p.) ; in-8</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31165183x</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LD39-744</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  301</dc:format>
+<dc:description>Contient une table des matières</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>20</sdewey>
+<dewey>2</dewey>
+<source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LD39-744</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>94.51</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Des jésuites / par MM. Michelet et Quinet</title>
+<date nbIssue="1">1843</date>
+<first_indexation_date>15/10/2007</first_indexation_date>
+<streamable>false</streamable>
+</results>

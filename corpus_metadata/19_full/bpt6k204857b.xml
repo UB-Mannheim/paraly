@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.012" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k204857b</identifier>
+<datestamp>2020-01-24</datestamp>
+<setSpec>gallica:theme:9:944</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k204857b</dc:identifier>
+<dc:title>Lettres du maréchal de Saint-Arnaud, 1832-1854. T. 2 / [publ. par Ad. Leroy de Saint-Arnaud] ; 2e éd. précédée d'une notice par M. Sainte-Beuve,...</dc:title>
+<dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb312789043</dc:relation>
+<dc:creator>Saint-Arnaud, Armand Jacques Achille Leroy de (1798-1854). Auteur du texte</dc:creator>
+<dc:contributor>Saint-Arnaud, Adolphe Leroy de (1801-1873). Éditeur scientifique</dc:contributor>
+<dc:contributor>Sainte-Beuve, Charles-Augustin (1804-1869). Préfacier</dc:contributor>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:date>1858</dc:date>
+<dc:format>2 vol. ; in-8</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb312789043</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Bibliothèque nationale de France</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:description>Correspondance</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>944</sdewey>
+<dewey>9</dewey>
+<source>Bibliothèque nationale de France</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>96.09</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Lettres du maréchal de Saint-Arnaud, 1832-1854. T. 2 / [publ. par Ad. Leroy de Saint-Arnaud] ; 2e éd. précédée d'une notice par M. Sainte-Beuve,...</title>
+<date nbIssue="1">1858</date>
+<first_indexation_date>15/10/2007</first_indexation_date>
+<streamable>false</streamable>
+</results>

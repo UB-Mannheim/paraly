@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.010" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k3046177f</identifier>
+<datestamp>2021-08-06</datestamp>
+<setSpec>gallica:theme:9:944</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k3046177f</dc:identifier>
+<dc:title>Précis historique de la Révolution française. Assemblée constituante ; suivi de Réflexions politiques sur les circonstances . Par J. P. Rabaut. Ouvrage orné de six gravures d'après les dessins de Moreau. Quatrième édition.</dc:title>
+<dc:creator>Rabaut Saint-Étienne (1743-1793). Auteur du texte</dc:creator>
+<dc:contributor>Moreau, Jean-Michel (1741-1814). Dessinateur</dc:contributor>
+<dc:contributor>Simonet, Jean-Baptiste-Blaise (1742-1813?). Graveur</dc:contributor>
+<dc:publisher>A Paris, chez Treuttel et Würtz, libraires, rue de Lille, n.° 17 ; et à Strasbourg, rue des Serruriers, n.° 3. Onfroy, rue S. Jacques, n.° 51. De l'Imprimerie de Didot jeune. 1807.</dc:publisher>
+<dc:date>1807</dc:date>
+<dc:format>LXXVI-257-40-108 p., 6 f. de pl. ; in-12</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31167147j</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LA32-22 (F)</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  496</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>944</sdewey>
+<dewey>9</dewey>
+<source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-LA32-22 (F)</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>85.24</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Précis historique de la Révolution française. Assemblée constituante ; suivi de Réflexions politiques sur les circonstances . Par J. P. Rabaut. Ouvrage orné de six gravures d'après les dessins de Moreau. Quatrième édition.</title>
+<date nbIssue="1">1807</date>
+<first_indexation_date>21/04/2019</first_indexation_date>
+<streamable>false</streamable>
+</results>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.011" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k1075048g</identifier>
+<datestamp>2022-04-26</datestamp>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k1075048g</dc:identifier>
+<dc:title>Extrait du Journal de mes voyages, ou Histoire d'un jeune homme, pour servir d'ecole aux peres et meres. Tome 2 / . Par M. Pahin de La Blancherie. Tome premier [-second].</dc:title>
+<dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb31050115v</dc:relation>
+<dc:creator>Pahin de La Blancherie (1752-1811). Auteur du texte</dc:creator>
+<dc:contributor>Marillier, Clément-Pierre (1740-1808). Illustrateur</dc:contributor>
+<dc:contributor>Romanet, Antoine Louis (1742-1810). Graveur</dc:contributor>
+<dc:contributor>Papillon, Jean-Michel (1698-1776). Graveur</dc:contributor>
+<dc:contributor>Le Sueur, Vincent (1668-1743). Graveur</dc:contributor>
+<dc:publisher>A Paris, chez les freres Debure, libraires, quai des Augustins. A Orléans, chez la veuve Rouzeau-Montaut, imprimeur du Roi. M. DCC. LXXV. Avec approbation, et privilege du Roi.</dc:publisher>
+<dc:date>1775</dc:date>
+<dc:format>2 tomes (VI-XII-359 p., [1] f. de pl. ; [4]-382-[4]-XVII p.) : ill. ; in-12</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31050115v</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Réserve des livres rares, R-45584</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  425</dc:format>
+<dc:format>application/epub+zip 3.0 accessible</dc:format>
+<dc:format>Format adaptable de type XML DTBook, 2005-3</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<source>Bibliothèque nationale de France, département Réserve des livres rares, R-45584</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>100.0</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Extrait du Journal de mes voyages, ou Histoire d'un jeune homme, pour servir d'ecole aux peres et meres. Tome 2 / . Par M. Pahin de La Blancherie. Tome premier [-second].</title>
+<epubFile>https://gallica.bnf.fr/ark:/12148/bpt6k1075048g.epub</epubFile>
+<date nbIssue="1">1775</date>
+<first_indexation_date>28/09/2015</first_indexation_date>
+<streamable>false</streamable>
+</results>

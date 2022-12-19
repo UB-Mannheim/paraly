@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.012" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k56027029</identifier>
+<datestamp>2022-12-02</datestamp>
+<setSpec>gallica:theme:8:84</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k56027029</dc:identifier>
+<dc:title>Crimes célèbres. Tome 7 / par MM. Alex. Dumas, Arnould, Fournier, Fiorentino et Mallefille</dc:title>
+<dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30030976q</dc:relation>
+<dc:creator>Dumas, Alexandre (1802-1870). Auteur du texte</dc:creator>
+<dc:creator>Arnould, Auguste (1803-1854). Auteur du texte</dc:creator>
+<dc:creator>Fournier, Narcisse (1803-1880). Auteur du texte</dc:creator>
+<dc:creator>Fiorentino, Pier-Angelo (1809-1864). Auteur du texte</dc:creator>
+<dc:creator>Mallefille, Félicien (1813-1868). Auteur du texte</dc:creator>
+<dc:publisher>Administration de librairie (Paris)</dc:publisher>
+<dc:date>1839-1840</dc:date>
+<dc:format>8 vol. : pl. ; in-8</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30030976q</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Droit, économie, politique, F-34160</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  362</dc:format>
+<dc:description>Contient une table des matières</dc:description>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>84</sdewey>
+<dewey>8</dewey>
+<source>Bibliothèque nationale de France, département Droit, économie, politique, F-34160</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>96.05</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Crimes célèbres. Tome 7 / par MM. Alex. Dumas, Arnould, Fournier, Fiorentino et Mallefille</title>
+<date nbIssue="1">1839-1840</date>
+<first_indexation_date>12/07/2010</first_indexation_date>
+<streamable>false</streamable>
+</results>

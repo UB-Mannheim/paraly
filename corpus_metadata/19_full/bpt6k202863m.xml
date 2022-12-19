@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.012" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k202863m</identifier>
+<datestamp>2021-04-09</datestamp>
+<setSpec>gallica:theme:8:84</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k202863m</dc:identifier>
+<dc:title>Documents littéraires. Etudes et portraits (Nouv. éd.) / Emile Zola</dc:title>
+<dc:creator>Zola, Émile (1840-1902). Auteur du texte</dc:creator>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:date>1926</dc:date>
+<dc:subject xml:lang="fre">Littérature française -- 19e siècle</dc:subject>
+<dc:subject xml:lang="fre">Écrivains français -- 19e siècle</dc:subject>
+<dc:description>Collection : Bibliothèque Charpentier</dc:description>
+<dc:description>Collection : Bibliothèque Charpentier</dc:description>
+<dc:format>419 p. ; in-8</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb388818390</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  423</dc:format>
+<dc:description>Biographie</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>84</sdewey>
+<dewey>8</dewey>
+<source>Bibliothèque nationale de France</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>96.05</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Documents littéraires. Etudes et portraits (Nouv. éd.) / Emile Zola</title>
+<date nbIssue="1">1926</date>
+<first_indexation_date>15/10/2007</first_indexation_date>
+<streamable>false</streamable>
+</results>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.017" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k6366660s</identifier>
+<datestamp>2021-06-04</datestamp>
+<setSpec>gallica:theme:3:34</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k6366660s</dc:identifier>
+<dc:title>Dictionnaire général et raisonné des justices de paix en matière civile, administrative, de simple police et d'instruction criminelle. Tome 3 / par M. J.-L. Jay ; avec la collaboration de MM. Le Hir,... Maulde,... Guilbon,... Lancelle,... Barbier-Tripart,...</dc:title>
+<dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb307801800</dc:relation>
+<dc:creator>Jay, Joseph-Laurent (1806-1875). Auteur du texte</dc:creator>
+<dc:contributor>Le Hir, Jean-Louis (1806-1880). Collaborateur</dc:contributor>
+<dc:contributor>Maulde, Pierre-Paul-Frédéric-Eugène (1814-1870). Collaborateur</dc:contributor>
+<dc:contributor>Barbier-Tripart. Collaborateur</dc:contributor>
+<dc:contributor>Guilbon, Nicolas-Augustin. Collaborateur</dc:contributor>
+<dc:contributor>Lancelle (juge de paix). Collaborateur</dc:contributor>
+<dc:publisher>Annales des justices de paix (Paris)</dc:publisher>
+<dc:publisher>A. Durand (Paris)</dc:publisher>
+<dc:date>1859</dc:date>
+<dc:format>4 vol. ; in-8</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb307801800</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Droit, économie, politique, F-36885</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  544</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>34</sdewey>
+<dewey>3</dewey>
+<source>Bibliothèque nationale de France, département Droit, économie, politique, F-36885</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>99.96</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Dictionnaire général et raisonné des justices de paix en matière civile, administrative, de simple police et d'instruction criminelle. Tome 3 / par M. J.-L. Jay ; avec la collaboration de MM. Le Hir,... Maulde,... Guilbon,... Lancelle,... Barbier-Tripart,...</title>
+<date nbIssue="1">1859</date>
+<first_indexation_date>19/11/2012</first_indexation_date>
+<streamable>false</streamable>
+</results>

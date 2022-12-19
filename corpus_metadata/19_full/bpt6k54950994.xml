@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.008" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k54950994</identifier>
+<datestamp>2021-02-05</datestamp>
+<setSpec>gallica:theme:8:84</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k54950994</dc:identifier>
+<dc:title>Le "Chancellor" / par Jules Verne ; illustré par Riou. Suivi de Martin Paz / illustré par Férat</dc:title>
+<dc:creator>Verne, Jules (1828-1905). Auteur du texte</dc:creator>
+<dc:contributor>Riou, Édouard (1833-1900). Illustrateur</dc:contributor>
+<dc:contributor>Férat, Jules (1829-1906). Illustrateur</dc:contributor>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:date>1876</dc:date>
+<dc:description>Collection : Les Voyages extraordinaires</dc:description>
+<dc:description>Collection : Les Voyages extraordinaires</dc:description>
+<dc:format>1 vol. (223 p.) : ill., ill. au titre ; gr. in-8</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb420568907</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Littérature et art, 4-Y2-2</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:description>Appartient à l’ensemble documentaire : UnivJeun0</dc:description>
+<dc:format>Nombre total de vues :  243</dc:format>
+<dc:description>Contient une table des matières</dc:description>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>84</sdewey>
+<dewey>8</dewey>
+<source>Bibliothèque nationale de France, département Littérature et art, 4-Y2-2</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>97.06</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Le "Chancellor" / par Jules Verne ; illustré par Riou. Suivi de Martin Paz / illustré par Férat</title>
+<date nbIssue="1">1876</date>
+<first_indexation_date>24/02/2009</first_indexation_date>
+<streamable>false</streamable>
+</results>

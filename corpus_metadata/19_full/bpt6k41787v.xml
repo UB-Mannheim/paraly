@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.013" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k41787v</identifier>
+<datestamp>2022-12-02</datestamp>
+<setSpec>gallica:theme:3:33</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k41787v</dc:identifier>
+<dc:title>Mémoires d'économie publique, de morale et de politique. Tome 1 / publ. par Roederer,...</dc:title>
+<dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb37270943w</dc:relation>
+<dc:contributor>Roederer, Pierre-Louis (1754-1835). Éditeur scientifique</dc:contributor>
+<dc:publisher>[Impr. du Journal de Paris][Impr. du Journal de Paris] (Paris)</dc:publisher>
+<dc:date>1799-1800</dc:date>
+<dc:subject xml:lang="fre">Économie publique -- France</dc:subject>
+<dc:description>Collection : Les archives de la Révolution française ; 6.3.202</dc:description>
+<dc:description>Collection : Les archives de la Révolution française ; 6.3.202</dc:description>
+<dc:format>8 microfiches ; 105*148 mm</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb37270943w</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, R2977</dc:source>
+<dc:rights xml:lang="fre">conditions spécifiques d'utilisation - Collection Les archives de la Révolution française</dc:rights>
+<dc:rights xml:lang="eng">restricted use</dc:rights>
+<dc:format>Nombre total de vues :  442</dc:format>
+<dc:description>Ouvrages avant 1800</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>33</sdewey>
+<dewey>3</dewey>
+<source>Bibliothèque nationale de France, R2977</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>97.24</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Mémoires d'économie publique, de morale et de politique. Tome 1 / publ. par Roederer,...</title>
+<date nbIssue="1">1799-1800</date>
+<first_indexation_date>15/10/2007</first_indexation_date>
+<streamable>false</streamable>
+</results>

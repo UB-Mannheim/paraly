@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.017" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k70061m</identifier>
+<datestamp>2021-12-16</datestamp>
+<setSpec>gallica:theme:8:84</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k70061m</dc:identifier>
+<dc:title>Les chants de Maldoror : chants I, II, III, IV, V, VI / comte de Lautréamont ; frontispice de José Roy</dc:title>
+<dc:creator>Lautréamont (1846-1870). Auteur du texte</dc:creator>
+<dc:contributor>Roy, José (1860-19..). Illustrateur</dc:contributor>
+<dc:contributor>Genonceaux, Léon (1856-1942). Préfacier</dc:contributor>
+<dc:publisher>L. Genonceaux (Paris)</dc:publisher>
+<dc:description>[Les chants de Maldoror (français)]</dc:description>
+<dc:relation>Notice d’oeuvre : http://catalogue.bnf.fr/ark:/12148/cb119481555</dc:relation>
+<dc:date>1890</dc:date>
+<dc:format>[8]-XI-[1]-385-[3] p.-[1] f. de pl. : ill., fac-sim. ; 18 cm</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb303628104</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Réserve des livres rares, RES P-YE-679</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:description>Appartient à l’ensemble documentaire : GTextes1</dc:description>
+<dc:format>Nombre total de vues :  405</dc:format>
+<dc:description>Contient une table des matières</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>84</sdewey>
+<dewey>8</dewey>
+<source>Bibliothèque nationale de France, département Réserve des livres rares, RES P-YE-679</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>92.51</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Les chants de Maldoror : chants I, II, III, IV, V, VI / comte de Lautréamont ; frontispice de José Roy</title>
+<date nbIssue="1">1890</date>
+<first_indexation_date>15/10/2007</first_indexation_date>
+<streamable>false</streamable>
+</results>

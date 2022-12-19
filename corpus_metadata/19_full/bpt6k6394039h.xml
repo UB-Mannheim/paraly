@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.206" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k6394039h</identifier>
+<datestamp>2019-09-27</datestamp>
+<setSpec>gallica:theme:8:80</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k6394039h</dc:identifier>
+<dc:title>Le diable à Paris ; Les parisiennes à Paris / [par] Alfred de Musset, de Balzac, G. Sand. Ch. Nodier, P. J. Stahl, Léon Gozlan, Taxile Delord, Laurent Jan, Eugène Guinot</dc:title>
+<dc:creator>Musset, Alfred de (1810-1857). Auteur du texte</dc:creator>
+<dc:creator>Sand, George (1804-1876). Auteur du texte</dc:creator>
+<dc:creator>Nodier, Charles (1780-1844). Auteur du texte</dc:creator>
+<dc:creator>Stahl, P.-J. (1814-1886). Auteur du texte</dc:creator>
+<dc:creator>Gozlan, Léon (1803-1866). Auteur du texte</dc:creator>
+<dc:creator>Delord, Taxile (1815-1877). Auteur du texte</dc:creator>
+<dc:creator>Laurent-Jan (1808-1877). Auteur du texte</dc:creator>
+<dc:creator>Guinot, Eugène (1805-1861). Auteur du texte</dc:creator>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:date>1857</dc:date>
+<dc:format>283 p. ; in-12</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb333455461</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-Z LE SENNE-5839</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  300</dc:format>
+<dc:description>Contient une table des matières</dc:description>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>80</sdewey>
+<dewey>8</dewey>
+<source>Bibliothèque nationale de France, département Philosophie, histoire, sciences de l'homme, 8-Z LE SENNE-5839</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>99.96</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Le diable à Paris ; Les parisiennes à Paris / [par] Alfred de Musset, de Balzac, G. Sand. Ch. Nodier, P. J. Stahl, Léon Gozlan, Taxile Delord, Laurent Jan, Eugène Guinot</title>
+<date nbIssue="1">1857</date>
+<first_indexation_date>10/12/2012</first_indexation_date>
+<streamable>false</streamable>
+</results>

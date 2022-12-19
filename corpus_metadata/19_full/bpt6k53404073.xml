@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.009" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k53404073</identifier>
+<datestamp>2021-06-18</datestamp>
+<setSpec>gallica:corpus:RsAlis000</setSpec>
+<setSpec>gallica:corpus:RsAlis003</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k53404073</dc:identifier>
+<dc:title>Contes choisis : édition spéciale à l'usage de la jeunesse / Alphonse Daudet ; dessins de Emile Bayard et Adrien Marie</dc:title>
+<dc:contributor>Daudet, Alphonse (1840-1897). Fonction indéterminée</dc:contributor>
+<dc:contributor>Hetzel, Pierre-Jules (1814-1886). Fonction indéterminée</dc:contributor>
+<dc:contributor>Bayard, Émile (1837-1891). Fonction indéterminée</dc:contributor>
+<dc:contributor>Marie, Adrien (1848-1891). Fonction indéterminée</dc:contributor>
+<dc:publisher>J. Hetzel (Paris)</dc:publisher>
+<dc:date>188.</dc:date>
+<dc:subject xml:lang="fre">Famille</dc:subject>
+<dc:subject xml:lang="fre">Promenade</dc:subject>
+<dc:subject xml:lang="fre">Loup</dc:subject>
+<dc:subject xml:lang="fre">Escalier</dc:subject>
+<dc:subject xml:lang="fre">Fille</dc:subject>
+<dc:subject xml:lang="fre">Placard</dc:subject>
+<dc:subject xml:lang="fre">Moulin</dc:subject>
+<dc:subject xml:lang="fre">Chèvre</dc:subject>
+<dc:format>1 vol. (II-346 p.-1front.-XXII f. de pl. : ill. ; 27 cm</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb44930304d</dc:relation>
+<dc:relation>Notice dans un autre catalogue : http://catalogues.toulouse.fr/web2/tramp2.exe/do_keyword_search/log_in?setting_key=BMT1泫vers=1home櫮ry=FCJB_001133</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque municipale de Toulouse, FCJ B 1133</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:description>Appartient à l’ensemble documentaire : RsAlis000</dc:description>
+<dc:description>Appartient à l’ensemble documentaire : RsAlis003</dc:description>
+<dc:format>Nombre total de vues :  368</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<source>Bibliothèque municipale de Toulouse, FCJ B 1133</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>89.38</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Contes choisis : édition spéciale à l'usage de la jeunesse / Alphonse Daudet ; dessins de Emile Bayard et Adrien Marie</title>
+<date nbIssue="1">188.</date>
+<first_indexation_date>09/01/2020</first_indexation_date>
+<streamable>false</streamable>
+</results>

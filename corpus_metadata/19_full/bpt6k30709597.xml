@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.013" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k30709597</identifier>
+<datestamp>2019-10-28</datestamp>
+<setSpec>gallica:theme:8:84</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k30709597</dc:identifier>
+<dc:title>Fragments d'un journal intime. Tome 1 / Henri Frédéric Amiel ; frontispices gravés sur bois, par P. E. Vibert</dc:title>
+<dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb31717090d</dc:relation>
+<dc:creator>Amiel, Henri-Frédéric (1821-1881). Auteur du texte</dc:creator>
+<dc:contributor>Bouvier, Bernard. Éditeur scientifique. Préfacier</dc:contributor>
+<dc:contributor>Vibert, Pierre-Eugène (1875-1937). Graveur</dc:contributor>
+<dc:publisher>Editions Georg et Cie (Genève)</dc:publisher>
+<dc:publisher>Editions G. Crès et Cie (Paris)</dc:publisher>
+<dc:description>[Journal intime (français). Extrait]</dc:description>
+<dc:relation>Notice d’oeuvre : http://catalogue.bnf.fr/ark:/12148/cb13507206r</dc:relation>
+<dc:date>1922</dc:date>
+<dc:description>Collection : Collection helvétique</dc:description>
+<dc:description>Collection : Collection helvétique</dc:description>
+<dc:format>3 vol. (LXI-336, 342, 463 p.) : ill. ; in-8</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb31717090d</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Bibliothèque nationale de France</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  429</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>84</sdewey>
+<dewey>8</dewey>
+<source>Bibliothèque nationale de France</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>89.02</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Fragments d'un journal intime. Tome 1 / Henri Frédéric Amiel ; frontispices gravés sur bois, par P. E. Vibert</title>
+<date nbIssue="1">1922</date>
+<first_indexation_date>10/09/2019</first_indexation_date>
+<streamable>false</streamable>
+</results>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.015" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k56903585</identifier>
+<datestamp>2021-01-22</datestamp>
+<setSpec>gallica:theme:8:84</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k56903585</dc:identifier>
+<dc:title>Le dernier rendez-vous. La résurrection de Lazare (Nouvelle édition) / par Henry Murger ; en collaboration avec M. Antoine Fauchery</dc:title>
+<dc:creator>Murger, Henry (1822-1861). Auteur du texte</dc:creator>
+<dc:creator>Murger, Henry (1822-1861). Auteur du texte</dc:creator>
+<dc:contributor>Fauchery, Antoine (1823-1861). Collaborateur</dc:contributor>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:date>1858</dc:date>
+<dc:description>Collection : Collection Michel Lévy. Oeuvres complètes de Henry Murger</dc:description>
+<dc:description>Collection : Collection Michel Lévy</dc:description>
+<dc:description>Comprend : La résurrection de Lazare</dc:description>
+<dc:format>1 vol. (312 p.) ; in-18</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30052263b</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Littérature et art, Y2-55709</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  326</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>84</sdewey>
+<dewey>8</dewey>
+<source>Bibliothèque nationale de France, département Littérature et art, Y2-55709</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>99.98</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Le dernier rendez-vous. La résurrection de Lazare (Nouvelle édition) / par Henry Murger ; en collaboration avec M. Antoine Fauchery</title>
+<date nbIssue="1">1858</date>
+<first_indexation_date>10/10/2009</first_indexation_date>
+<streamable>false</streamable>
+</results>

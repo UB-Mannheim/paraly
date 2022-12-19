@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.015" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k65394984</identifier>
+<datestamp>2018-04-26</datestamp>
+<setSpec>gallica:theme:9:944</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k65394984</dc:identifier>
+<dc:title>Histoire de France depuis les temps les plus reculés jusqu'à la révolution de 1789. Tome 6 / par Anquetil,... ; continuée depuis l'ouverture des États généraux jusqu'à la fin de l'Empire d'après Dulaure et les historiens contemporains, et depuis la Restauration de 1814 jusqu'à la nomination du président de la République (10 décembre 1848), par Paul Lacroix (bibliophile Jacob),...</dc:title>
+<dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb30711345t</dc:relation>
+<dc:creator>Anquetil, Louis-Pierre (1723-1806). Auteur du texte</dc:creator>
+<dc:creator>Lacroix, Paul (1806-1884). Auteur du texte</dc:creator>
+<dc:publisher>Dufour, Boulanger et Legrand (Paris)</dc:publisher>
+<dc:date>1862</dc:date>
+<dc:format>6 vol. : pl. ; gr. in-8</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb30711345t</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Les amis de Montmélian et de ses environs, 2013-151406</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  572</dc:format>
+<dc:description>Contient une table des matières</dc:description>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>944</sdewey>
+<dewey>9</dewey>
+<source>Les amis de Montmélian et de ses environs, 2013-151406</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>99.72</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Histoire de France depuis les temps les plus reculés jusqu'à la révolution de 1789. Tome 6 / par Anquetil,... ; continuée depuis l'ouverture des États généraux jusqu'à la fin de l'Empire d'après Dulaure et les historiens contemporains, et depuis la Restauration de 1814 jusqu'à la nomination du président de la République (10 décembre 1848), par Paul Lacroix (bibliophile Jacob),...</title>
+<date nbIssue="1">1862</date>
+<first_indexation_date>26/08/2013</first_indexation_date>
+<streamable>false</streamable>
+</results>

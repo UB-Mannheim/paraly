@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.010" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k3042081r</identifier>
+<datestamp>2022-03-10</datestamp>
+<setSpec>gallica:theme:8:80</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k3042081r</dc:identifier>
+<dc:title>Contes de toutes les couleurs. Tome V</dc:title>
+<dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb455556943</dc:relation>
+<dc:creator>Lytton, Edward Bulwer (1803-1873). Auteur du texte</dc:creator>
+<dc:creator>Berthoud, Samuel-Henry (1804-1891). Auteur du texte</dc:creator>
+<dc:creator>Farjas, L.. Auteur du texte</dc:creator>
+<dc:creator>Bastide, Jules (1800-1879). Auteur du texte</dc:creator>
+<dc:creator>Voïart, Élise (1786-1866). Auteur du texte</dc:creator>
+<dc:creator>Morier, James Justinien (1782-1849). Auteur du texte</dc:creator>
+<dc:creator>Salvandy, Narcisse-Achille de (1795-1856). Auteur du texte</dc:creator>
+<dc:creator>Viel-Castel, Horace de (1802-1864). Auteur du texte</dc:creator>
+<dc:creator>Sandeau, Jules (1811-1883). Auteur du texte</dc:creator>
+<dc:creator>Sand, George (1804-1876). Auteur du texte</dc:creator>
+<dc:contributor>Châteaugiron, Hippolyte de (1774-1848). Traducteur</dc:contributor>
+<dc:contributor>Julien, Stanislas (1799-1873). Traducteur</dc:contributor>
+<dc:publisher>H. Fournier (Paris)</dc:publisher>
+<dc:date>1833</dc:date>
+<dc:description>Comprend : L'inconnu : conte sentimental et mystérieux ; Nicaise ou L'enfant de choeur ; Louise Helwing ; La vieille carabine / Jules Bastide ; L'hôte mystérieux : conte fantastique ; Pepita / traduit de Morier par le marquis de Chateaugiron ; Le prince de Richemond ou Le nouveau Lord Edouard ; Une nuit d'automne. 1829 ; Cyprien : fragment philosophique ; Cora ; Thse Hioung Hioung ti, c'est-à-dire "Les deux frères de sexe différent" / trad. du chinois [par Stanislas Julien]</dc:description>
+<dc:format>1 vol. (438 p.) ; 23 cm</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb41151179m</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Bibliothèque nationale de France, département Littérature et art, Y2-64899</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  464</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>80</sdewey>
+<dewey>8</dewey>
+<source>Bibliothèque nationale de France, département Littérature et art, Y2-64899</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>78.51</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Contes de toutes les couleurs. Tome V</title>
+<date nbIssue="1">1833</date>
+<first_indexation_date>17/02/2019</first_indexation_date>
+<streamable>false</streamable>
+</results>

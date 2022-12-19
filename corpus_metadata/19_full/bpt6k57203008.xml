@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.014" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k57203008</identifier>
+<datestamp>2019-07-26</datestamp>
+<setSpec>gallica:theme:2:22</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k57203008</dc:identifier>
+<dc:title>La Sainte Bible : traduite sur le latin de la Vulgate. Edition 2,Tome 4 / par Lemaistre de Sacy,... et par le P. Lallemant... ; notes explicatives par M. l'abbé Delaunay,...</dc:title>
+<dc:relation>Notice d'ensemble : http://catalogue.bnf.fr/ark:/12148/cb36589002k</dc:relation>
+<dc:contributor>Le Maistre de Sacy, Isaac-Louis (1613-1684). Traducteur</dc:contributor>
+<dc:contributor>Lalemant, Pierre (1622-1673). Traducteur</dc:contributor>
+<dc:contributor>Delaunay, Henri (1804-1881). Notes éditoriales</dc:contributor>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:description>[Bible (français). 1860]</dc:description>
+<dc:relation>Notice d’oeuvre : http://catalogue.bnf.fr/ark:/12148/cb12008248x</dc:relation>
+<dc:date>1860</dc:date>
+<dc:format>5 vol. : pl. ; in-4</dc:format>
+<dc:language>fre</dc:language>
+<dc:language>français</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb36589002k</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">monographie imprimée</dc:type>
+<dc:source>Bibliothèque nationale de France, département Collections numérisées, 2009-71074</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:format>Nombre total de vues :  506</dc:format>
+<dc:description>Contient une table des matières</dc:description>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>22</sdewey>
+<dewey>2</dewey>
+<source>Bibliothèque nationale de France, département Collections numérisées, 2009-71074</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>99.98</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>La Sainte Bible : traduite sur le latin de la Vulgate. Edition 2,Tome 4 / par Lemaistre de Sacy,... et par le P. Lallemant... ; notes explicatives par M. l'abbé Delaunay,...</title>
+<date nbIssue="1">1860</date>
+<first_indexation_date>05/10/2009</first_indexation_date>
+<streamable>false</streamable>
+</results>

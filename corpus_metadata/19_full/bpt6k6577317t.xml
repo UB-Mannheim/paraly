@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<results ResultsGenerationSearchTime="0:00:00.015" countResults="1" resultType="CVOAIRecordSearchService" searchTime="">
+<visibility_rights>all</visibility_rights>
+<notice>
+<record>
+<header>
+<identifier>oai:bnf.fr:gallica/ark:/12148/bpt6k6577317t</identifier>
+<datestamp>2021-01-28</datestamp>
+<setSpec>gallica:theme:8:84</setSpec>
+<setSpec>gallica:typedoc:monographies</setSpec>
+</header>
+<metadata>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+<dc:identifier>https://gallica.bnf.fr/ark:/12148/bpt6k6577317t</dc:identifier>
+<dc:title>Romain Kalbris / par Hector Malot ; ill. par Emile Bernard ; gravures par Pannemaker</dc:title>
+<dc:creator>Malot, Hector (1830-1907). Auteur du texte</dc:creator>
+<dc:contributor>Bayard, Émile (1837-1891). Illustrateur</dc:contributor>
+<dc:contributor>Pannemaker, Adolphe François (1822-1900). Graveur</dc:contributor>
+<dc:publisher> (Paris)</dc:publisher>
+<dc:date>18..</dc:date>
+<dc:description>Collection : Bibliothèque d'éducation et de récréation</dc:description>
+<dc:description>Collection : Bibliothèque d'éducation et de récréation</dc:description>
+<dc:format>1 vol. (298 p.) : ill. ; 24 cm</dc:format>
+<dc:language>fre</dc:language>
+<dc:relation>Notice du catalogue : http://catalogue.bnf.fr/ark:/12148/cb39096721t</dc:relation>
+<dc:type xml:lang="eng">text</dc:type>
+<dc:type xml:lang="fre">monographie imprimée</dc:type>
+<dc:type xml:lang="eng">printed monograph</dc:type>
+<dc:source>Ville de Paris / Fonds Heure joyeuse, 2013-418018</dc:source>
+<dc:rights xml:lang="fre">domaine public</dc:rights>
+<dc:rights xml:lang="eng">public domain</dc:rights>
+<dc:description>Appartient à l’ensemble documentaire : UnivJeun0</dc:description>
+<dc:format>Nombre total de vues :  316</dc:format>
+<dc:description>Avec mode texte</dc:description>
+</oai_dc:dc>
+</metadata>
+</record>
+</notice>
+<provenance>bnf.fr</provenance>
+<sdewey>84</sdewey>
+<dewey>8</dewey>
+<source>Ville de Paris / Fonds Heure joyeuse, 2013-418018</source>
+<typedoc>monographie</typedoc>
+<nqamoyen>99.93</nqamoyen>
+<mode_indexation>text</mode_indexation>
+<title>Romain Kalbris / par Hector Malot ; ill. par Emile Bernard ; gravures par Pannemaker</title>
+<date nbIssue="1">18..</date>
+<first_indexation_date>10/02/2014</first_indexation_date>
+<streamable>false</streamable>
+</results>
