@@ -1,0 +1,28 @@
+﻿<cescript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.0">
+	<head>
+		<meta key="Projektname"/>
+		<meta key="Kurzbeschreibung"/>
+	</head>
+	<sessions mode="asynchron" parallel="">
+		<session>
+			<sources parallel="" processing="loop">
+				<import type="ImporterCec6">
+					<file>corpus.cec6</file>
+					<file>corpus.cec6.gz</file>
+					<file>corpus.cec6.lz4</file>
+				</import>
+			</sources>
+			<queries/>
+			<actions mode="asynchron" parallel="">
+				<action query="" type="kwic-phrase">
+					<output format="FNT:TSV">output.tsv</output>
+					<arguments>
+						<argument>Wort</argument>
+						
+						<argument>FILE:query.txt</argument>						
+					</arguments>
+				</action>
+			</actions>
+		</session>
+	</sessions>
+</cescript>
