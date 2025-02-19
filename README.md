@@ -101,8 +101,8 @@ The app for using the classifier is openly available via [Hugging Face Spaces](h
 ## License
 
 Unless stated otherwise, this work is licensed as follows:  
-
-- **MIT License** for code  
-- **CC0** for files containing metadata only  
-- **[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)** for all other content  
+ 
+- **MIT License** for code,
+- **CC0** for original data and metadata from Gallica (see https://gallica.bnf.fr/accueil/fr/html/conditions-dutilisation-de-gallica),
+- **[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)** for all other content, including annotated data, model, and documentation.
 
