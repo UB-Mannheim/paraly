@@ -18,6 +18,8 @@
 
 ```
 paraly/
+├── docs/
+│   └── paraly_annotation_guidelines.pdf
 ├── data/
 │   ├── training/
 │   │   ├── train_fasttext_dataset.txt
@@ -26,25 +28,28 @@ paraly/
 │   ├── model/
 │   │   ├── training.log
 │   │   ├── test.tsv
+│   │   ├── paraly_camembert_large_multilabel.pt
 │   │   ├── loss.tsv
 │   │   └── dev.tsv
+│   ├── errors/
+│   │   └── all_metadata_errors.csv
 │   ├── corpus/
-│   │   ├── 20_paraly_metadata.tsv
+│   │   ├── 20_paraly_metadata.csv
 │   │   ├── 20_paraly_data_TEI.xml/
 │   │   ├── 20_paraly_corpus.cec6
-│   │   ├── 19_paraly_metadata.tsv
+│   │   ├── 19_paraly_metadata.csv
 │   │   ├── 19_paraly_data_TEI.xml/
 │   │   ├── 19_paraly_corpus.cec6
-│   │   ├── 18_paraly_metadata.tsv
+│   │   ├── 18_paraly_metadata.csv
 │   │   ├── 18_paraly_data_TEI.xml/
 │   │   └── 18_paraly_corpus.cec6
 │   └── annotations/
-│       ├── 20_paraly_annotations.xlsx
-│       ├── 20_paraly_annotations.csv
-│       ├── 19_paraly_annotations.xlsx
-│       ├── 19_paraly_annotations.csv
-│       ├── 18_paraly_annotations.xlsx
-│       └── 18_paraly_annotations.csv
+│       ├── 20_paraly_annotations_v1.xlsx
+│       ├── 20_paraly_annotations_v1.csv
+│       ├── 19_paraly_annotations_v1.xlsx
+│       ├── 19_paraly_annotations_v1.csv
+│       ├── 18_paraly_annotations_v1.xlsx
+│       └── 18_paraly_annotations_v1.csv
 ├── code/
 │   ├── training/
 │   │   ├── train_fc.py
@@ -53,20 +58,22 @@ paraly/
 │   │   ├── prepare_training_data.py
 │   │   └── README_splitting.md
 │   ├── merging/
-│   │   ├── merge.ipynb
-│   │   └── README_merging.md
+│   │   ├── README_merging.md
+│   │   └── Merge.ipynb
 │   ├── extraction/
-│   │   ├── starten.bat
-│   │   ├── skript.cecs
 │   │   ├── query.txt
+│   │   ├── Starten.bat
+│   │   ├── Skript.cecs
 │   │   └── README_extraction.md
-│   └── collection/
-│       ├── get_metadata_for_corpus.ipynb
-│       ├── get_metadata_for_all_books.ipynb
-│       ├── get_OCRed_books_from_gallica.ipynb
-│       └── comment_metadata_in_html_files.ipynb
+│   ├── collection/
+│   │   ├── get_metadata_for_corpus.ipynb
+│   │   ├── get_metadata_for_all_books.ipynb
+│   │   ├── get_OCRed_books_from_gallica.ipynb
+│   │   └── comment_metadata_in_html_files.ipynb
+│   └── app/
+│       └── app.py
 ├── README.md
-└── LICENSE
+└── LICENSE.md
 ```
 
 ## Collection
@@ -93,4 +100,9 @@ The app for using the classifier is openly available via [Hugging Face Spaces](h
 
 ## License
 
-This work is licensed under the MIT license (code) and Creative Commons Attribution 4.0 International license (for everything else). You are free to share and adapt the material for any purpose, even commercially, as long as you provide attribution.
+Unless stated otherwise, this work is licensed as follows:  
+
+- **MIT License** for code  
+- **CC0** for files containing metadata only  
+- **[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)** for all other content  
+
